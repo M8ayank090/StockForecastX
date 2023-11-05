@@ -14,7 +14,7 @@ StockForecastX is a Python-based project that leverages machine learning techniq
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/StockForecastX.git
+   git clone https://github.com/M8ayank090/StockForecastX.git
    cd StockForecastX
 
 ### Support
